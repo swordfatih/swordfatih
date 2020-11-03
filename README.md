@@ -1,4 +1,4 @@
-### > Imagination rules the world.
+> Imagination rules the world.
 
 <!--
 **swordfatih/swordfatih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
