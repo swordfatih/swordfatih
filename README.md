@@ -1,5 +1,7 @@
-> Imagination rules the world.
-> &mdash
+> Imagination rules the world. — <cite>[Napoleon Bonaparte][1]</cite>
+
+[1]: https://books.google.fr/books/about/M%C3%A9moires_de_Napol%C3%A9on.html?id=w8GDvgAACAAJ&source=kp_book_description&redir_esc=y
+
 <!--
 **swordfatih/swordfatih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
